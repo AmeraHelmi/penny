@@ -1,0 +1,1840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AuctionTheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-28 00:31+0200\n"
+"PO-Revision-Date: 2013-10-28 00:31+0200\n"
+"Last-Translator: sitemile <sitemile@sitemile.com>\n"
+"Language-Team: sitemile.com <sitemile@sitemile.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\andrei\\Desktop\\sitemile_themes\\PennyTheme"
+"\\\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: C:\\Users\\andrei\\Desktop\\sitemile_themes"
+"\\PennyTheme\n"
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/404.php:33
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/404.php:35
+msgid ""
+"The requested page cannot be found. Maybe your item has not been approved "
+"yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/ajax-stuff.php:96
+msgid "Oups! The time for the auction is up!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/ajax-stuff.php:110
+msgid ""
+"To bid you need credits. There are no credits in your account.\n"
+"    Click the button below to purchase credits."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/ajax-stuff.php:116
+msgid "Purchase Credits"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/ajax-stuff.php:129
+msgid ""
+"To be able to use the bid feature you need to login first.\n"
+"    You can login if you do not have an account you can register."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/ajax-stuff.php:134
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:136
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:398
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:410
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:64
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:141
+msgid "Login"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/ajax-stuff.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:316
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:134
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:468
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:78
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:90
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:136
+msgid "Register"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive-auction.php:63
+msgid "All Posted Auctions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive-auction.php:64
+#, php-format
+msgid "Latest Posted Auctions in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive-auction.php:84
+msgid "No auctions posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive.php:42
+#, php-format
+msgid "Daily Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive.php:44
+#, php-format
+msgid "Monthly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive.php:46
+#, php-format
+msgid "Yearly Blog Archives: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/archive.php:48
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/autosuggest.php:80
+msgid "No results found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:27
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:28
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:29
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:19
+msgid "Begin to search by typing here..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:261
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1857
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:234
+msgid "Retail Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:268
+msgid "Highest Bidder"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:274
+msgid "Timer"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:275
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:242
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:289
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1283
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2351
+msgid "Bid Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:349
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:417
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:479
+#, php-format
+msgid "You won this item for the price of: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:356
+msgid "Pay Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:422
+#, php-format
+msgid "Paid on: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:484
+#, php-format
+msgid "Shipped on: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:506
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:508
+msgid "The sidebar area of the single blog post"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:519
+msgid "PennyTheme - Stretch Wide MainPage Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:521
+msgid ""
+"This sidebar is site wide stretched in home page, just under the slider/menu."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:531
+msgid "Other Page Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:533
+msgid "The sidebar area of any other page than the defined ones"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:544
+msgid "Home Page Sidebar - Right"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:546
+msgid "The right sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:557
+msgid "Home Page Sidebar - Left"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:559
+msgid "The left sidebar area of the homepage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:569
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:571
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:580
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:582
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:591
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:593
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:602
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:604
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:614
+msgid "PennyTheme - Auction Single Sidebar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:616
+msgid "The sidebar of the single auction page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:625
+msgid "PennyTheme - HomePage Area"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:627
+msgid "The sidebar for the main page, just under the slider."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1068
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1569
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:349
+msgid "Username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1069
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1570
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:350
+msgid "Bid Amount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1098
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1599
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:377
+msgid "No bids placed yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1227
+msgid "No Bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1308
+msgid "Expired"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1310
+#, php-format
+msgid "%s hours, %s min, %s sec"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1313
+msgid "days"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1313
+msgid "day"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1314
+#, php-format
+msgid "%s %s, %s hours, %s min"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1419
+msgid "Auction Title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1420
+msgid "Author"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1421
+msgid "Posted On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1422
+msgid "Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1423
+msgid "Expires in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1424
+msgid "Featured"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1425
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1426
+msgid "Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1456
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:780
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1062
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2113
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2388
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2553
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1457
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:780
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1062
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2113
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2388
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2553
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/buy_now.php:78
+msgid "No"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1571
+msgid "Date Made"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1573
+msgid "Winner"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1827
+msgid "Shipping"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1834
+msgid "Start Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1842
+msgid "Reserve"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1849
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:151
+msgid "Buy Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1865
+msgid "Bid Increase Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1872
+msgid "Time Increase"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1879
+msgid "Feature this auction"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1885
+msgid "Closed"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:1916
+msgid "Auction Ending On"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2127
+msgid "Auctions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2128
+msgid "Auction"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2129
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2132
+msgid "Add New Auction"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2130
+msgid "New Auction"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2131
+msgid "Edit Auction"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2133
+msgid "Search Auctions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2151
+msgid "Auction Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2175
+msgid "My Account Menu"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2179
+msgid "MyAccount Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2180
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:56
+msgid "Buy Bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2181
+msgid "Personal Info"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2182
+msgid "My Bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2183
+msgid "My Won Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2184
+msgid "My Unpaid Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2185
+msgid "Paid and Not Shipped"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/functions.php:2186
+msgid "Paid & Shipped"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:54
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:407
+msgid "Remove from watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:55
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:412
+msgid "Add to watchlist"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:56
+msgid "Auction Ended"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:228
+msgid "Wp-Admin"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:251
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/top-main-menu.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:132
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:466
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:140
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:180
+msgid "Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:277
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:385
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/watch_list.php:30
+msgid "Watch List"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:281
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:305
+msgid "MyAccount"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:306
+msgid "Log Out"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/header.php:317
+msgid "Log In"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/latest-posted-auctions.php:2
+msgid "Latest Posted Auctions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/latest-posted-auctions.php:35
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/latest-posted-auctions.php:52
+msgid "Sorry, there are no posted auctions yet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:162
+msgid "BUY NOW"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:177
+msgid "Current Price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:198
+msgid "Bidding Ended"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:204
+msgid "BID NOW"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:213
+#, php-format
+msgid "Each bid increases the auction price by %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:218
+msgid "Highest bidder"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:241
+msgid "Timer increase"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:264
+msgid "Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:280
+msgid "Image Gallery"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:299
+msgid "No images."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:328
+msgid "Bidding List"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:420
+msgid "Bid Assistant"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:479
+msgid "You need to login to use the bid assistant!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:507
+msgid "Credits to use"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:527
+#, php-format
+msgid ""
+"You have the bid assistant live with this auction.<br/><br/>\n"
+"        \t\t\t\tMax credits: %s<br/>\n"
+"        Credits Used: <span class=\"credits-used\">%s</span><br/><br/"
+">        \n"
+"        <a href=\"%s\">Delete This</a>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/single-auction.php:541
+msgid "Share Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/taxonomy.php:62
+msgid "All Posted Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/taxonomy.php:63
+#, php-format
+msgid "Latest Posted Items in %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/taxonomy.php:92
+msgid "No items posted."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/top-main-menu.php:35
+msgid "All Auctions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/top-main-menu.php:36
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/adv_search.php:120
+msgid "Advanced Search"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/top-main-menu.php:37
+msgid "Show All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/top-main-menu.php:38
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/closed_auctions.php:31
+msgid "Closed Auctions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:31
+msgid "PennyTheme"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:32
+msgid "Site Summary"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:33
+msgid "General Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:34
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:117
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:314
+msgid "Email Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:35
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2552
+msgid "Pricing Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:36
+msgid "Payment Gateways"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:37
+msgid "User Balances"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:38
+msgid "InSite Transactions"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:39
+msgid "Orders"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:40
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:775
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:41
+msgid "Advertising"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:42
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1061
+msgid "Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:43
+msgid "Info Stuff"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:110
+msgid "Sorry there are no transactions yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:135
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:143
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:151
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:160
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:169
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:178
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:187
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:196
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:205
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:214
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:223
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:232
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:241
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:250
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:260
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:269
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:278
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:287
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:302
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:800
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:807
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:814
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:822
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1076
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1084
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1970
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1978
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1986
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1994
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2148
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2157
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2167
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2179
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2190
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2405
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2413
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2421
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2429
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2588
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2609
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2625
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2635
+msgid "Settings saved!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:315
+msgid "New User Email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:316
+msgid "New User Email (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:317
+msgid "Bids Purchase (user)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:318
+msgid "Bids Purchase (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:320
+msgid "Item Purchase (user)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:321
+msgid "Item Purchase (admin)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:359
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:412
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:465
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:521
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:575
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:630
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:686
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:927
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:991
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1015
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1045
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1117
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1147
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2023
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2048
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2072
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2096
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2289
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2324
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2368
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2473
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2503
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2533
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2692
+msgid "Save Options"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:369
+msgid ""
+"This email will be received by all new users who register on your website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:379
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:433
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:487
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:541
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:595
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:651
+msgid "Email Subject:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:387
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:441
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:495
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:549
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:603
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:659
+msgid "Email Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:397
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:451
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:505
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:559
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:613
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:669
+msgid "Here is a list of tags you can use in this email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:399
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:453
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:507
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:561
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:615
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:671
+msgid "your new username"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:400
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:454
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:508
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:562
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:616
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:672
+msgid "your new user's email"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:401
+msgid "your new user's password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:402
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:455
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:511
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:565
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:620
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:676
+msgid "the link to your user login page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:403
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:456
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:512
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:566
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:621
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:677
+msgid "your website's name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:404
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:457
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:513
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:567
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:622
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:678
+msgid "your website's main address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:423
+msgid ""
+"This email will be received by the admin when a new user registers on the "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:477
+msgid ""
+"This email will be received by the user when he purchases bids on your "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:509
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:563
+msgid "the actual number of bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:510
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:564
+msgid "the money spent on the bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:531
+msgid ""
+"This email will be received by the admin when the user pruchases bids on "
+"your website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:585
+msgid ""
+"This email will be received by the user when he wins an item on your "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:617
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:673
+msgid "item name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:618
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:674
+msgid "item link"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:619
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:675
+msgid "item list price"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:641
+msgid ""
+"This email will be received by the admin when the user wins an item on your "
+"website. \n"
+"          Be aware, if you add html tags to this email you must have the "
+"allow HTML tags option set to yes.\n"
+"          Also at the bottom you can see a list of tags you can use in the "
+"email body."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:835
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2001
+msgid "HomePage"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:836
+msgid "Header"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:837
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:838
+msgid "Change Colors"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:847
+msgid "Color for background:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:875
+msgid "Color for footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:882
+msgid "Color for text footer:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:889
+msgid "Color for top links:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:895
+msgid "Color for top links(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:902
+msgid "Color for main menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:909
+msgid "Color for main menu(hover):"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:916
+msgid "Color for slider background:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:943
+msgid "The layout of the homepage."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:944
+msgid "Choose from the home page layouts available:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:948
+msgid "Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:956
+msgid "Content + Left Sidebar + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:964
+msgid "Left Sidebar + Content + Right Sidebar:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:972
+msgid "Left Sidebar + Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:980
+msgid "Content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1006
+msgid "Eg: http://your-site-url.com/images/logo.jpg"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1007
+msgid "Logo URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1029
+msgid "This will appear in the left side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1030
+msgid "Left side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1036
+msgid "This will appear in the right side of the footer area."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1037
+msgid "Right side footer area content:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1092
+msgid "Google Analytics"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1093
+msgid "Other Tracking Tools"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1103
+msgid "Enable Google Analytics:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1109
+msgid "Analytics Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1133
+msgid "Enable Other Tracking:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1139
+msgid "Other Tracking Code:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1371
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1581
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1792
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/adv_search.php:179
+msgid "Previous"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1392
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1602
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1813
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/adv_search.php:198
+msgid "Next"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1402
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1612
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1823
+msgid "There are no items yet"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1854
+msgid "Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1866
+msgid "Main Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1867
+msgid "From SiteMile Blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1876
+msgid "PennyTheme Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1881
+msgid "PennyTheme Latest Release:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1886
+msgid "WordPress Version:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1892
+msgid "Go to SiteMile official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1897
+msgid "Go to PennyTheme's official page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1902
+msgid "Go to support forums:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1907
+msgid "Contact SiteMile Team:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1912
+msgid "Like us on Facebook:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1918
+msgid "Follow us on Twitter:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:1957
+msgid "Advertising Spaces"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2002
+msgid "Auction Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2003
+msgid "Category Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2004
+msgid "Single Blog/Normal Page"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2010
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2035
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2059
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2083
+msgid "Above the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2016
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2041
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2065
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2089
+msgid "Below the content area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2111
+msgid "General Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2199
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2200
+msgid "Facebook Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2201
+msgid "Twitter Connect"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2213
+msgid "Number of Items on Homepage:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2220
+msgid "Only increase timer in last:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2227
+msgid "Show views in each auction page:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2233
+msgid "Admin approves each auction:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2240
+msgid "Enable Frontpage Slider:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2246
+msgid "Enable Main Menu:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2252
+msgid "Enable Stretch Area:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2258
+msgid "Enable Blog:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2266
+msgid "Auctions per page in Advanced Search:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2273
+msgid "Slug for Auction Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2280
+msgid "Slug for Category Permalink:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2305
+msgid "Enable Facebook Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2311
+msgid "Facebook App ID:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2317
+msgid "Facebook Secret Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2339
+msgid "Enable Twitter Login:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2345
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2351
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2359
+msgid "Callback URL:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2441
+msgid "Bank Payment(offline)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2452
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2488
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2518
+msgid "Enable:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2458
+msgid "PayPal Enable Sandbox:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2464
+msgid "PayPal Email Address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2494
+msgid "Payza/Alertpay Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2524
+msgid "MoneyBookers Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2554
+msgid "Comma (,)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2554
+msgid "Point (.)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2555
+msgid "In front of sum (eg: $50)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2555
+msgid "After the sum (eg: 50$)"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2643
+msgid "Main Details"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2644
+msgid "Bidding Packages"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2656
+msgid "Site currency:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2663
+msgid "Currency symbol:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2669
+msgid "Currency symbol position:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2676
+msgid "Decimals sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/admin_menu.php:2682
+msgid "Thousands sum separator:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/adv_search.php:204
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/closed_auctions.php:71
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/my_account.php:92
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/my_bids.php:75
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/paid_and_not_shipped.php:75
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/paid_shipped.php:74
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/unpaid.php:66
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/won_items.php:76
+msgid "There are no auctions yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/all_categories.php:27
+msgid "All Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/buy_now.php:65
+#, php-format
+msgid "Buy Now auction: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/buy_now.php:70
+#, php-format
+msgid "You are about to buy now auction: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/buy_now.php:77
+msgid "Yes, Buy Now!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/watch_list.php:74
+msgid "There are no auctions in your watch list."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/gateways/purchase_bid_paypal.php:55
+msgid "Bid package"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:80
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:259
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:272
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:88
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:99
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:122
+msgid "Retrieve Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:108
+msgid "Please enter your information here. We will send you a new password."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:114
+msgid "Username or Email:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:132
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:466
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:140
+msgid "Are you lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:157
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:180
+msgid "Retrieve Error"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:185
+#, php-format
+msgid ""
+"Sorry, that user does not seem to exist in our database. Perhaps you have "
+"the wrong username or e-mail address? <a href=\"%s\">Try again</a>."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:206
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:208
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:288
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:58
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:110
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:209
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:213
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:122
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:219
+msgid "There Was a Problem"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:220
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:297
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:128
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:221
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:298
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:226
+#, php-format
+msgid "The e-mail was sent successfully to %s's e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:227
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:304
+msgid "Check your e-mail first, of course"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:228
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:305
+msgid "Click here to login!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:243
+msgid "Key Not Valid"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:258
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:271
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:296
+msgid "<h1>Problem</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:289
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:59
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:292
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:302
+msgid "<h1>Success!</h1>"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:303
+msgid "Your new password is in the mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:307
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:308
+#, php-format
+msgid "[%s] Password Lost/Change"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:390
+msgid "Your session has expired."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:393
+msgid "<strong>Error</strong>: The password field is empty."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:418
+msgid ""
+"We have sent a confirmation message to your email address.<br/>\n"
+"\t\t\t\t\tPlease follow the instructions in the email and get back to this "
+"page."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:439
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:116
+msgid "Username:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:444
+msgid "Password:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:450
+msgid "Keep me logged in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:458
+msgid "Sign in"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:471
+msgid "Password Lost and Found"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/login.php:471
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:142
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:46
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:57
+msgid "Registration Complete"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:59
+msgid "emailed to you"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:60
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:61
+msgid ""
+"Please check your <strong>Junk Mail</strong> if your account information "
+"does not appear within 5 minutes."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:121
+msgid "E-mail:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:129
+msgid "A password will be emailed to you."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:142
+msgid "Password Lost?"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:163
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:175
+msgid "Registration Disabled"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:179
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:180
+msgid "Go back to the blog"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:205
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:207
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:210
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:215
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:217
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:220
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/register.php:233
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:65
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:69
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:82
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:96
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:108
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:111
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:112
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/login_register/sett.php:128
+msgid ""
+"Possible reason: your host may have disabled the \n"
+"\t\tmail() function..."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/my_account.php:28
+msgid "My Account Home"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/my_account.php:33
+msgid "No personal info defined."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/my_account.php:48
+msgid "Latest bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/my_bids.php:31
+msgid "My bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/paid_and_not_shipped.php:31
+msgid "Paid and Not Shipped Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/paid_shipped.php:30
+msgid "Paid and Shipped Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:33
+msgid "Payments"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:40
+#, php-format
+msgid "Your Current Balance is: %s credits"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:66
+msgid "There are no bid packages defined."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:73
+msgid "Package Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:74
+msgid "Bids Number"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:75
+msgid "Cost"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/payments.php:105
+msgid "Purchase Now"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:31
+msgid "Personal Information"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:67
+msgid "Passwords do not match!"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:94
+msgid "Your profile information was updated."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:106
+msgid "Profile Description"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:115
+msgid "First Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:120
+msgid "Last Name"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:126
+msgid "Street Address"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:132
+msgid "Suburb/City"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:137
+msgid "State"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:142
+msgid "Country"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:148
+msgid "Zip Code"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:154
+msgid "Contact Phone"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:159
+msgid "New Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:165
+msgid "Repeat Password"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:171
+msgid "Profile Avatar"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/personal_info.php:182
+msgid "Save"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/purchase_bids.php:30
+msgid "Pay and Purchase Bids"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/purchase_bids.php:33
+msgid "Choose one of the payment methods below to pay for your bids package."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/purchase_bids.php:41
+msgid "Pay by PayPal"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/purchase_bids.php:52
+msgid "Pay by Payza"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/purchase_bids.php:63
+msgid "Pay by Moneybookers"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/purchase_bids.php:79
+msgid "Pay by Bank/Offline"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/unpaid.php:30
+msgid "Unpaid Items"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/my_account/won_items.php:30
+msgid "Auctions I Won"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/social/social.php:37
+msgid "Connect with:"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/browse-by-category.php:99
+msgid "See More Categories"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/browse-by-category.php:114
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/featured-auctions.php:72
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/latest-posted-auctions.php:67
+msgid "Title"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/browse-by-category.php:119
+msgid "Number of Columns"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/browse-by-category.php:125
+msgid "Number of Rows"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/featured-auctions.php:56
+msgid "Sorry, there are no posted auctions yet."
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/featured-auctions.php:79
+msgid "Show auctions limit"
+msgstr ""
+
+#: C:\Users\andrei\Desktop\sitemile_themes\PennyTheme/lib/widgets/latest-posted-auctions.php:74
+msgid "Show auction limit"
+msgstr ""
